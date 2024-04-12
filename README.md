@@ -5,6 +5,8 @@ I made this for tarkov, but you can use this as you wish
 # How
 
 1. Using the python script
+    
+    Install required packages `pip install -r requirements.txt`
 
     Run in terminal `python main.py`
 
