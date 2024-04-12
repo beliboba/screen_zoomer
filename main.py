@@ -117,10 +117,10 @@ class App:
         root.bind('<Configure>', lambda event: self.center_box())
 
     def zoom_in(self):
-        self.zoom_factor *= 1.1
+        self.zoom_factor *= 0.9
 
     def zoom_out(self):
-        self.zoom_factor *= 0.9
+        self.zoom_factor *= 1.1
 
     @staticmethod
     def close_app():
