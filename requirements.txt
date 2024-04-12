@@ -1,0 +1,6 @@
+mss
+opencv-python
+screeninfo
+pillow
+tkthread
+keyboard
