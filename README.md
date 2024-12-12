@@ -11,7 +11,8 @@ I made this for tarkov, but you can use this as you wish
     Run in terminal `python main.py`
 
 2. Using the executable
-    Get the .exe from the releases and run it
+
+   Get the .exe from the releases and run it
 
 # TODO
 
